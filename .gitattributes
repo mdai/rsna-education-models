@@ -1,5 +1,6 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 *.ckpt filter=lfs diff=lfs merge=lfs -text
 rsna18_pretrained_opacity.ckpt filter=lfs diff=lfs merge=lfs -text
+rsna18_effb0_256_pretrained_opacity.ckpt filter=lfs diff=lfs merge=lfs -text
 dataset.zip filter=lfs diff=lfs merge=lfs -text
 annotations.json filter=lfs diff=lfs merge=lfs -text
